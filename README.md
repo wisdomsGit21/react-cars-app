@@ -1,4 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+## AUTHOR
+
+EKEH WISDOM
+
+## CONTACT ME
+
+wisdom.dev21@gmail.com
+
+## GIT REPO
+
+https://github.com/wisdomsGit21/react-cars-app.git
 
 ## Available Scripts
 
