@@ -11,12 +11,14 @@ const LogoContainer = styled.div`
 `;
 
 const LogoText = styled.div`
+  font-family: Viner Hand ITC;
   ${tw`
         text-xl
         md: text-2xl
         font-bold
-        text-black
+        text-gray-700
         m-1
+        pl-1
     `}
 `;
 
@@ -38,7 +40,7 @@ export function Logo() {
       <Image>
         <img src={CarLogoImg} alt="Yourcar." />
       </Image>
-      <LogoText>Yourcar</LogoText>
+      <LogoText>EasyRentals</LogoText>
     </LogoContainer>
   );
 }
